@@ -2,6 +2,7 @@
 layout: post
 title:  "Deep Speech: Scaling up end-to-end speech recognition"
 date:   2020-11-22 03:10:55 +0300
+image:  images/456.jpg
 tags:   Review
 ---
 # Deep Speech: Scaling up end-to-end speech recognition  

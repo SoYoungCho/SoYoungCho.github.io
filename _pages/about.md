@@ -2,24 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-image: sooftware.jpg
 ---
-
-<div align=center>
 
 ### Soohwan Kim @sooftware   
 
 #### AI Research Engineer ㆍ Software Developer 
   
-</div>
-  
-<div align=center>
-  
-![s](https://komarev.com/ghpvc/?username=sooftware) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white&link=https://zzsza.github.io/)](https://blog.naver.com/sooftware) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://www.linkedin.com/in/soohwan-kim-532092182/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sh951011@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://facebook.com/sooftware95) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
-
-</div>
-  
-Current AI Research Engineer at Kakao Brain. I majored in Electronic \& Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page (http://github.com/sooftware) to see what I am currently up to.
+Current AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/). I majored in Electronic \& Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page (http://github.com/sooftware) to see what I am currently up to.
   
 ### Education
 * Undergraduate Student at Kwangwoon University `2014.03 ~ 2021.02 (Expected)`  

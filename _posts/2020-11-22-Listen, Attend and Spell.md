@@ -2,6 +2,7 @@
 layout: post
 title:  "Listen, Attend and Spell"
 date:   2020-11-22 03:10:55 +0300
+image:  images/456.jpg
 tags:   Review
 ---
 # 「Listen, Attend and Spell」 Review  
