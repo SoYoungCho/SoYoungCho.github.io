@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: sooftware
-logo: logo.png # You can add own logo.
+logo: logo.svg # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
@@ -19,7 +19,8 @@ author:
 # Contact links
 #twitter: https://twitter.com/ # Add your Twitter handle
 facebook: https://facebook.com/sooftware95 # Add your Facebook handle
-linkedin: https://www.linkedin.com/in/Soo-hwan/
+linkedin: https://linkedin.com/in/Soo-hwan/
+github: https://github.com/sooftware/
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 #instagram: https://instagram.com/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
