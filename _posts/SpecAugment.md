@@ -2,7 +2,7 @@
 layout: post
 title:  "SpecAugment"
 date:   2020-11-22 03:10:55 +0300
-image:  10.jpg
+image:  specaugment.jpg
 tags:   Jekyll
 ---
 
