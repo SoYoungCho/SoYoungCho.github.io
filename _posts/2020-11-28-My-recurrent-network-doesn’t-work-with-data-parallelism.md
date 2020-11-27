@@ -2,7 +2,7 @@
 layout: post
 title: "My recurrent network doesn’t work with data parallelism"
 date: 2020-11-28 06:15:55 +0300
-image: 06.jpg
+image: pack_rnn.jpg
 tags: Debug
 ---  
   
