@@ -8,11 +8,11 @@ permalink: /about/
 
 #### AI Research Engineer ㆍ Software Developer 
   
-Current AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/). I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page (http://github.com/sooftware) to see what I am currently up to.
+Current AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/). I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my [github page](http://github.com/sooftware) to see what I am currently up to.
   
 ### Education
 **Kwangwoon University**  
-Major B.E. in Electronic & Communication Engineering / Minor B.E. in Data Scienece.  
+Major B.E. in Electronic & Communication Engineering / Minor B.E. in Data Scienece (2014.03 ~ 2021.02)  
   
 - **Major GPA**: 3.90 / 4.5 / **Total GPA**: 3.70 / 4.5
 - **Courses**: Capstone Design I-II, AI & Speech Signal Processing, Software Design, Machine Learning, Computer Architecture, Operating System, Data Structure & Algorithm, Data Mining, Network Programming, IoT System Design, Big Data Language, Big Data Processing & Application, Database, Digital Signal Processing, Statistical application, Object-Oriented Programming, Object-Oriented Programming Practice, Open-Source Software, System Programming, C programming, Mobile Programming, Data Communication, Computer Network, Basic Electronic Circuit Experiment I-II, Electronic Circuit Experiment I-II, Electronic Circuit Theory I-II, Digital Logic, Physics Electronic Technology, Engineering Math I-II, Probability and Irregular Signaling Theory, Probability and Statistics
