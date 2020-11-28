@@ -12,8 +12,9 @@ Current AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/). I ma
   
 ### Education
 **Kwangwoon University**  
-> Major B.E. in Electronic & Communication Engineering / Minor B.E. in Data Scienece.  
-- **Major GPA: 3.90 / 4.5** / **Total GPA**: 3.70 / 4.5
+Major B.E. in Electronic & Communication Engineering / Minor B.E. in Data Scienece.  
+  
+- **Major GPA**: 3.90 / 4.5 / **Total GPA**: 3.70 / 4.5
 - **Courses**: Capstone Design I-II, AI & Speech Signal Processing, Software Design, Machine Learning, Computer Architecture, Operating System, Data Structure & Algorithm, Data Mining, Network Programming, IoT System Design, Big Data Language, Big Data Processing & Application, Database, Digital Signal Processing, Statistical application, Object-Oriented Programming, Object-Oriented Programming Practice, Open-Source Software, System Programming, C programming, Mobile Programming, Data Communication, Computer Network, Basic Electronic Circuit Experiment I-II, Electronic Circuit Experiment I-II, Electronic Circuit Theory I-II, Digital Logic, Physics Electronic Technology, Engineering Math I-II, Probability and Irregular Signaling Theory, Probability and Statistics
   
 ### Professional Experience
