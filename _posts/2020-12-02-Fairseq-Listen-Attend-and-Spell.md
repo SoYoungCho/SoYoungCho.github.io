@@ -2,7 +2,7 @@
 layout: post
 title: "Fairseq \"Listen, Attend and Spell\""
 date: 2020-12-02 01:25:30 +300
-images: fairseq_logo.png
+images: fairseq.png
 tags: Project
 ---
 
@@ -68,9 +68,7 @@ pip install -e .
 ```
 git clone https://github.com/NVIDIA/apex
 cd apex
-pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" \
-  --global-option="--deprecated_fused_adam" --global-option="--xentropy" \
-  --global-option="--fast_multihead_attn" ./
+pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" --global-option="--deprecated_fused_adam" --global-option="--xentropy" --global-option="--fast_multihead_attn" ./
 ```
   
 ## Results  
