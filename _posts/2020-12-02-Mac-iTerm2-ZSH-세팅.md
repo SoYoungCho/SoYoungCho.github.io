@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Mac iTerm2+ZSH 세팅"
+title: "Mac-iTerm2+ZSH-세팅"
 date: 2020-12-02 02:25:30 +300
 image: dracula.png
-tags: Development-Environment
+tags: Environment
 ---
   
 # Mac iTerm2+ZSH 세팅  
@@ -72,7 +72,7 @@ vi ~/.zshrc
   
 ### agnoster 적용
 
-위쪽에서 10번째쯤 줄에 ZSH\_THEME=\"robyrussell\"라고 되어 있는 부분을 ZSH\_THEME=\"agnoster\"로 수정해줍니다.  
+위쪽에서 10번째쯤 줄에 ZSH_THEME="robyrussell"라고 되어 있는 부분을 ZSH\_THEME="agnoster"로 수정해줍니다.  
   
 ### MacBok-Pro 지우기  
   
