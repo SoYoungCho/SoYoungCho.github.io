@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac-iTerm2\+ZSH-세팅"
+title: "Mac-iTerm2\+ZSH"
 date: 2020-12-02 02:25:30 +300
 image: dracula.png
 tags: Environment
