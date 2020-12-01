@@ -89,11 +89,13 @@ vi ~/.zshrc
 아마 따로 설정을 해주지 않으셨다면 위의 이미지와 다르게 쉘에 MacBook-Pro라고 입력란 앞쪽에 떠 있을겁니다. 이 부분이 거슬리는 분들은 zshrc 파일 하단에 아래 내용을 추가해줍니다.  
   
 {% raw %}
+```
 prompt_context() {
   if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
     prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
   fi
 }
+```
 {% endraw %}
   
 ### New Line 적용
@@ -118,6 +120,7 @@ build_prompt() {
 zshrc 파일에서 build_prompt를 찾아 prompt_end 위에 prompt_newline을 추가합니다. 다음 아래 코드를 추가합니다.    
   
 {% raw %}
+```
 prompt_newline() {
   if [[ -n $CURRENT_BG ]]; then
     echo -n "%{%k%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR
@@ -129,6 +132,7 @@ prompt_newline() {
   echo -n "%{%f%}"
   CURRENT_BG=''
 }
+```
 {% endraw %}
   
 저장을 해준 후 iTerm2에서 아래 명령어로 zshrc 파일의 수정사항을 반영해줍니다.  
