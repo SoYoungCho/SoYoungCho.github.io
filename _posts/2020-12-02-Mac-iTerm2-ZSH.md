@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Mac-iTerm2\+ZSH"
+title: "Mac-iTerm2\+ZSH 설치"
 date: 2020-12-02 02:25:30 +300
 image: dracula.png
-tags: Environment
+tags: Development-Environment
 ---
   
 # Mac iTerm2+ZSH 세팅  
@@ -78,7 +78,7 @@ vi ~/.zshrc
   
 아마 따로 설정을 해주지 않으셨다면 위의 이미지와 다르게 쉘에 MacBook-Pro라고 입력란 앞쪽에 떠 있을겁니다. 이 부분이 거슬리는 분들은 zshrc 파일 하단에 아래 내용을 추가해줍니다.  
 
-```
+```shell
 prompt_context() {
   if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
     prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
