@@ -2,7 +2,7 @@
 layout: post
 title: "Fairseq \"Listen, Attend and Spell\""
 date: 2020-12-02 01:25:30 +300
-images: fairseq.jpeg
+images: fairseq_logo.png
 tags: Project
 ---
 
@@ -42,8 +42,8 @@ pip install -e .
 ```
   
 * **For decoding** Install wav2letter component  
-> In decoding, We use [wav2letter](https://github.com/facebookresearch/wav2letter) toolkit.  
-> To quickly summarize the instructions: first, install [CUDA](https://developer.nvidia.com/cuda-downloads). Then follow these steps:  
+In decoding, We use [wav2letter](https://github.com/facebookresearch/wav2letter) toolkit.  
+To quickly summarize the instructions: first, install [CUDA](https://developer.nvidia.com/cuda-downloads). Then follow these steps:  
 ```
 # additional prerequisites - use equivalents for your distro
 sudo apt-get install build-essential cmake libatlas-base-dev libfftw3-dev liblzma-dev libbz2-dev libzstd-dev
@@ -76,10 +76,10 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 ## Results  
   
 ### Training Loss Curve  
-<img src="https://github.com/sooftware/Fairseq-Listen-Attend-Spell/blob/main/images/loss.PNG" height=270>  
+![loss]({{site.baseurl}}/images/fairseq_loss.PNG)
   
 ### Learning rate  
-<img src="https://github.com/sooftware/Fairseq-Listen-Attend-Spell/blob/main/images/lr.PNG" height=270>  
+![loss]({{site.baseurl}}/images/fairseq_lr.PNG)
   
 |Model|LM|test-clean|test-other|    
 |--|:--:|:--:|:--:|      
