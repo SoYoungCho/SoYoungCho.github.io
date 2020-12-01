@@ -107,7 +107,7 @@ build_prompt() {
 
 zshrc 파일에서 build_prompt를 찾아 prompt_end 위에 prompt_newline을 추가합니다. 다음 아래 코드를 추가합니다.    
   
-```
+```shell
 prompt_newline() {
   if [[ -n $CURRENT_BG ]]; then
     echo -n "%{%k%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR
