@@ -2,7 +2,7 @@
 layout: post
 title: "Fairseq \"Listen, Attend and Spell\""
 date: 2020-12-02 01:25:30 +300
-images: fairseq.png
+image: fairseq.png
 tags: Project
 ---
 
