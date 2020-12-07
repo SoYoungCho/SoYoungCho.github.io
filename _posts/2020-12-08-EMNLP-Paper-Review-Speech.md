@@ -39,7 +39,7 @@ tags: Paper-Review
   3. ASR & AFS 모델은 Freeze한 채로 ST Encoder, ST Decoder 학습  
 - Result on MuST-C En-De  
   
-![image](https://user-images.githubusercontent.com/42150335/101370007-4a9a5e00-38ec-11eb-8f41-7f6de1b9d583.png)
+<img src="https://user-images.githubusercontent.com/42150335/101370007-4a9a5e00-38ec-11eb-8f41-7f6de1b9d583.png" width=500>
   
   + AFS는 모델을 더 빠르게 하면서도 성능을 높였음
   + 성능은 Cascade보다는 살짝 낮음
@@ -60,7 +60,7 @@ tags: Paper-Review
   
 ![image](https://user-images.githubusercontent.com/42150335/101376816-6bff4800-38f4-11eb-9dca-1592c05c6759.png)
   
-> Text2Phoneme → Phoneme2Spectrogram → Spectrogram2Wave 단계를 거침
+Text2Phoneme → Phoneme2Spectrogram → Spectrogram2Wave 단계를 거침
   
 - 위와 같은 Full-sentence TTS는 문장 길이가 길어질수록 latency가 길어지는 고질적인 문제점을 가지고 있음  
 - 이러한 문제점 해결을 위해 아래 파이프라인을 제안  
