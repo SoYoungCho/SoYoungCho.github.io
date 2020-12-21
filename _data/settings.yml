@@ -11,30 +11,30 @@ author:
   name: Soyoung Cho
   image: code.gif
   say-hello: Hello, I’m <strong>Soyoung Cho</strong>
-  #bio: Current senior student at Kwangwoon University. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source.
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: Current senior student at Kwangwoon University. My research interests include data mining, data analysis, data-based consulting and natural language processing.
+  #bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
 # Contact links
-facebook: https://facebook.com/sooftware95 # Add your Facebook handle
-linkedin: https://linkedin.com/in/Soo-hwan/
-github: https://github.com/sooftware/
-twitter: https://twitter.com/SoohwanKim6 # Add your Twitter handle
+facebook: https://www.facebook.com/soyoung.cho.543/
+linkedin: https://www.linkedin.com/in/sophia-cho-4598bb1a5/
+github: https://github.com/SoYoungCho/
+#twitter: https://twitter.com/SoohwanKim6 # Add your Twitter handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-#instagram: https://instagram.com/ # Add your Instagram handle
+instagram: https://www.instagram.com/so_young_and_rich/?fbclid=IwAR1EIEpgSii5J5yTVZFSE-2mrqJ42_33m-_4GhaMxNwhvJH6LIWUhMpI9NI
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Soyoung # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: so_young_and_rich # Add instagram username
 
 
 #-------------------------------
