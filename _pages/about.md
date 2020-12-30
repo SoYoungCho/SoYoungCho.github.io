@@ -10,6 +10,7 @@ This page is to keep all the information and records at one place.
 
 ---
 ### Education
+---
 - **Korea Advanced Institute of Science and Technology, KAIST**
 	- M.S Student in Knowledge Service Engineering
 	- January 2021 - Present
