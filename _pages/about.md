@@ -14,6 +14,9 @@ This page is to keep all the information and records at one place.
 	- M.S Student in Knowledge Service Engineering
 	- January 2021 - Present
 	- Will be joining [Knowledge Innovation Research Center (KIRC)](https://kirc.kaist.ac.kr/) led by Prof. Mun Yong Yi
+
+---
+
 - **Kwangwoon University**
 	- Bachelor of Science in [Information Convergence](https://ic.kw.ac.kr:501/main/main.php), School of Data Science
 	- Spring 2017 - Fall 2020
