@@ -1,25 +1,15 @@
----
-layout: default
----
-{% include hero.html %}
-
-<div class="container">
-	<div class="row">
-		<div class="col col-12">
-			{% if site.posts.size > 0 %}
-				<h4 class="lates-title">Latest Posts</h4>
-			{% endif %}
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row">
-	{% if site.posts.size > 0 %}
-		{% for post in paginator.posts %}
-			{% include article-content.html %}
-		{% endfor %}
-	{% endif %}
-	</div>
-</div>
-{% include pagination.html %}
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>soyoung.log</title>
+<link rel="canonical" href="https://soyoungcho.github.io/blog/about/">
+<meta name="robots" content="noindex, follow">
+<meta http-equiv="refresh" content="0; url=https://soyoungcho.github.io/blog/about/">
+<script>location.replace('https://soyoungcho.github.io/blog/about/');</script>
+</head>
+<body style="font-family:sans-serif;padding:24px">
+<p>이 주소는 이사했어요. <a href="https://soyoungcho.github.io/blog/about/">https://soyoungcho.github.io/blog/about/</a>로 이동해요.</p>
+</body>
+</html>
